@@ -4,7 +4,7 @@ num_gpus=8
 data_name="nq_hotpotqa_train_sesearch"
 export DATA_DIR="data/${data_name}"
 
-wandb_token="f0b369b2c690f24d6ded03648a3e74129a2c93c4" 
+wandb_token="" 
 WAND_PROJECT="SE-Search-othermodels"
 #export WANDB_MODE="disabled"
 export WANDB_API_KEY=$wandb_token
