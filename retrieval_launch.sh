@@ -1,5 +1,5 @@
 
-file_path=$file_path/data
+file_path=./data
 index_file=$file_path/e5_Flat.index
 corpus_file=$file_path/wiki-18.jsonl
 retriever=intfloat/e5-base-v2
