@@ -11,7 +11,7 @@ export WANDB_API_KEY=$wandb_token
 export VLLM_ATTENTION_BACKEND=XFORMERS
 
 
-export BASE_MODEL='/apdcephfs_sh9/share_302498651/hunyuan/swordli/checkpoints/Qwen2.5-3B'
+export BASE_MODEL='./checkpoints/Qwen2.5-3B'
 export EXPERIMENT_NAME="$data_name-qwen2.5-3b-Instruct-gs10-lr1e6-f1+mem+format3+query1505d0.3d150reward"
 
 
