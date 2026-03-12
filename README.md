@@ -4,7 +4,7 @@
 
 ## 🔥 News
 
-- Paper available on \[[ArXiv](https://arxiv.org/pdf/2603.03293)\]
+- Paper available on \[[ArXiv](https://arxiv.org/abs/2603.10069)\]
 - Checkpoints released at \[[🤗 HuggingFace](https://huggingface.co/swordli/SE-Search)\]
 
 ## 📖 Overview
