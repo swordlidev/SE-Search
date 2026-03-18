@@ -2,10 +2,6 @@
 
 *Self-Evolving Search Agent via Memory and Dense Reward*
 
-## 🔥 News
-
-- Paper available on \[[ArXiv](https://arxiv.org/abs/2603.03293)\]
-- Checkpoints released at \[[🤗 HuggingFace](https://huggingface.co/swordli/SE-Search)\]
 
 ## 📖 Overview
 
@@ -134,24 +130,7 @@ Built upon [VeRL](https://github.com/volcengine/verl), [Search-R1](https://githu
 ## 🎓 Citations
 
 ```latex
-@misc{li2026sesearch,
-      title={SE-Search: Self-Evolving Search Agent via Memory and Dense Reward}, 
-      author={Jian Li and Yizhang Jin and Dongqi Liu and Hang Ding and Jiafu Wu and Dongsheng Chen and Yunhang Shen and Yulei Qin and Ying Tai and Chengjie Wang and Xiaotong Yuan and Yabiao Wang},
-      year={2026},
-      eprint={2603.03293},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2603.03293}, 
-}
-@misc{li2026improvingsearchagentline,
-      title={Improving Search Agent with One Line of Code}, 
-      author={Jian Li and Dongsheng Chen and Zhenhua Xu and Yizhang Jin and Jiafu Wu and Chengjie Wang and Xiaotong Yuan and Yabiao Wang},
-      year={2026},
-      eprint={2603.10069},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2603.10069}, 
-}
+
 @article{li2025survey,
   title={A Survey on AI Search with Large Language Models},
   author={Li, Jian and Li, Xiaoxi and Zheng, Yan and Jin, Yizhang and Wang, Shuo and Wu, Jiafu and Wang, Yabiao and Wang, Chengjie and Yuan, Xiaotong},
